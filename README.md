@@ -35,3 +35,6 @@ To request a conflict check for behavioral threat profiling, insider-threat tria
 * **Briefing Portal:** https://github.io
 * **Encrypted Email Intake:** `nyctoclientintake.deceptive171@passinbox.com`
 * **Session ID (Instant Text):** `059771584b119527441a01c788e2e424a1fbcff4f4b1a1ce4c62d31effcd0e794d`
+
+## Case Studies
+* [Case Study 01: Insider IP Exfiltration & Behavioral Baseline Deviation](./CASE_STUDY_01_INSIDER_EXFILTRATION.md)
