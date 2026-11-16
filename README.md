@@ -38,3 +38,4 @@ To request a conflict check for behavioral threat profiling, insider-threat tria
 
 ## Case Studies
 * [Case Study 01: Insider IP Exfiltration & Behavioral Baseline Deviation](./CASE_STUDY_01-INSIDER_EXFILTRATION.md)
+* [Case Study 02: Cross-Persona Threat Attribution via Psycholinguistic & Operational Tempo Analysis](./CASE_STUDY_02-CROSS_PERSONA_ATTRIBUTION.md)
