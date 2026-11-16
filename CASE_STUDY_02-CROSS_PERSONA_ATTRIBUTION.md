@@ -26,3 +26,6 @@ A cross-border financial advisory firm suffered a targeted executive impersonati
 
 * **High-Confidence Behavioral Linkage:** Although network indicators were completely obfuscated, the convergence of idiolect markers, circadian dormancy windows, and pretext structure established high-confidence attribution across separate threat personas.
 * **Defensive Recommendations:** Implemented domain-spoofing monitoring, out-of-band executive wire verification protocols, and behavioral threat intelligence tracking for recurring adversary personas
+
+---
+[← Back to Repository Overview](./README.md)
