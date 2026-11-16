@@ -39,3 +39,5 @@ Technical artifacts establish what happened; behavioral profiling establishes in
 2. Master Super-Timeline: Minute-by-minute correlation merging filesystem ($MFT), registry, volatile memory, and network flow events.
 3. Executive Behavioral & Attribution Brief: Non-jargon narrative translating technical indicators of premeditation into clear evidentiary findings for civil trade-secret litigation.
 
+---
+[← Back to Repository Overview](./README.md)
