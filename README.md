@@ -1,6 +1,6 @@
 # Behavioral Threat Attribution & Criminological Profiling
 
-**Published by:** [NYCTO Operations Agency](https://github.io)
+**Published by:** [NYCTO Operations Group](https://github.io)
 **Domain:** Cyber Psychology, Criminology & Digital Forensics (DFIR)
 
 ## Executive premise
