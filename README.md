@@ -32,7 +32,7 @@ NYCTO Operations Group bridges technical digital forensics with behavioral crimi
 
 ## Confidential Consultations & Custom Briefings
 To request a conflict check for behavioral threat profiling, insider-threat triage, or OSINT attribution support:
-* **Briefing Portal:** https://github.io
+* **Briefing Portal:** https://nycto-dfir.github.io
 * **Encrypted Email Intake:** `nyctoclientintake.deceptive171@passinbox.com`
 * **Session ID (Instant Text):** `059771584b119527441a01c788e2e424a1fbcff4f4b1a1ce4c62d31effcd0e794d`
 
