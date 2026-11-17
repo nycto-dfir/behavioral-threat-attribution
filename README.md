@@ -6,7 +6,7 @@
 ## Executive premise
 Modern threat actors routinely mask IP addresses, rotate burner infrastructure, and wipe local logs. However, human cognitive habits, linguistic syntax, operational tempo and risk-tolerance thresholds remain consistent across personas.
 
-NYCTO Operations Agency bridges technical digital forensics with behavioral criminology to support legal counsel, corporate risk teams, and asset-recovery investigators.
+NYCTO Operations Group bridges technical digital forensics with behavioral criminology to support legal counsel, corporate risk teams, and asset-recovery investigators.
 
 
 ## Four-Pillar Attribution Framework
